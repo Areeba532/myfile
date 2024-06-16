@@ -1,0 +1,13 @@
+.card {
+  height: 80vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+body {
+  background-image: url('html.webp');
+}
